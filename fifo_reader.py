@@ -1,6 +1,5 @@
 import os
 import select
-from os.path import exists
 
 IPC_FIFO_NAME_A = "pipe_a"
 IPC_FIFO_NAME_B = "pipe_b"

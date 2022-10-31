@@ -1,5 +1,5 @@
 const fs              = require('fs');
-const { spawn, fork } = require('child_process');
+const { spawn } = require('child_process');
 
 const path_a = 'pipe_a';
 const path_b = 'pipe_b';
